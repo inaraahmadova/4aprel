@@ -1,0 +1,14 @@
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\4aprel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\4aprel.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\4aprel.AssemblyInfo.cs
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\4aprel.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\4aprel\4aprel\bin\Debug\net6.0\4aprel.exe
+C:\Users\Hp\Desktop\4aprel\4aprel\bin\Debug\net6.0\4aprel.deps.json
+C:\Users\Hp\Desktop\4aprel\4aprel\bin\Debug\net6.0\4aprel.runtimeconfig.json
+C:\Users\Hp\Desktop\4aprel\4aprel\bin\Debug\net6.0\4aprel.dll
+C:\Users\Hp\Desktop\4aprel\4aprel\bin\Debug\net6.0\4aprel.pdb
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\4aprel.dll
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\refint\4aprel.dll
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\4aprel.pdb
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\4aprel.genruntimeconfig.cache
+C:\Users\Hp\Desktop\4aprel\4aprel\obj\Debug\net6.0\ref\4aprel.dll
